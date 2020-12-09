@@ -1,0 +1,7 @@
+﻿  student.c
+C:\Users\Кирилл\source\repos\4Lab\4Lab\student.c(250,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\source\repos\4Lab\4Lab\student.c(337,23): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Кирилл\source\repos\4Lab\4Lab\student.c(342,18): warning C4047: функция: "Student **" отличается по уровням косвенного обращения от "Student ***"
+C:\Users\Кирилл\source\repos\4Lab\4Lab\student.c(342,18): warning C4024: FreeList: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\4Lab\4Lab\student.c(150): warning C4715: deletestudent: значение возвращается не при всех путях выполнения
+  4Lab.vcxproj -> C:\Users\Кирилл\source\repos\4Lab\Debug\4Lab.exe
